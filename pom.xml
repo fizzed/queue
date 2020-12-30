@@ -4,7 +4,7 @@
     <groupId>com.fizzed</groupId>
     <artifactId>queue</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <parent>
         <groupId>com.fizzed</groupId>
@@ -15,7 +15,8 @@
     <scm>
         <url>https://github.com/fizzed/queue</url>
         <connection>scm:git:git@github.com:fizzed/queue.git</connection>
-    </scm>
+      <tag>v1.0.0</tag>
+  </scm>
     
     <modules>
         <module>queue-core</module>
